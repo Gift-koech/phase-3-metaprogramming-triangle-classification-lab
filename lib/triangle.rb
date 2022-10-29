@@ -26,9 +26,7 @@ def kind
 end
 
 class TriangleError < StandardError
-# def message
-#   "Invalid Entries!"
-# end
+
 end
 
 end
